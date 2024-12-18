@@ -1,0 +1,35 @@
+#baner {
+    background-color: #C75B39 ;
+    color: white;
+    padding: 10px;
+text-align: center;
+width: 100%;
+float: left;
+
+}
+#lewy{
+    background-color:#FF8A65 ;
+    width: 25%;
+    height: 500px;
+    text-align: left;
+    padding-top: 50px;
+    float: left;
+    margin-left: 5px;
+}
+#prawy{
+    background-color:snow ;
+    width: 75%;
+    height: 500px;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+#stopka {
+    background-color: #C75B39 ;
+    color: white;
+    padding: 10px;
+text-align: center;
+width: 100%;
+clear: both;
+float: left;
+}
